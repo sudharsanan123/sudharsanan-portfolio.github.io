@@ -640,7 +640,7 @@ footer span a:hover{
     }
 }
 .mb-6{
-    text-align:left;
-    margin-right: 300px;
-    margin-top:10px;
+    text-size-adjust: 50px;
+    padding-top: 20px;
+    padding-right: 250px;
 }
